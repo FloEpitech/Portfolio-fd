@@ -8,14 +8,14 @@
   },
   {
     "title": "Spotify Academie",
-    "imageSrc": ["./assets/projects/spotify1.png", "./assets/projects/spotify2.png", "./assets/projects/spotify3.png","./assets/projects/spotify4.png","./assets/projects/spotify5.png"],
+    "imageSrc": ["./assets/projects/spotify1.png", "./assets/projects/spotify2.png", "assets/projects/spotify3.png","./assets/projects/spotify4.png","./assets/projects/spotify5.png"],
     "description": "Reproduction de Spotify fonctionnant avec une API Docker, Project en équipe.",
     "skills": ["React", "Docker", "Tailwind", "HTML"],
     "source": "https://github.com/FloEpitech/Spotify-academie"
   },
   {
     "title": "Tweet Academie",
-    "imageSrc": ["./assets/projects/twitter1.png", "./assets/projects/twitter2.png", "./assets/projects/twitter3.png","./assets/projects/twitter4.png","./assets/projects/twitter5.png"],
+    "imageSrc": ["skills/mongodb.png", "projects/twitter2.png", "projects/twitter3.png","projects/twitter4.png","projects/twitter5.png"],
     "description": "Reproduction de Twitter et toute ses fonctionnalités en PHP et SQL, Project en équipe",
     "skills": ["JS", "PHP", "Tailwind", "SQL"],
     "source": "https://github.com/FloEpitech/tweet-academie"
