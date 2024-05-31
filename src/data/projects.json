@@ -15,7 +15,7 @@
   },
   {
     "title": "Tweet Academie",
-    "imageSrc": ["./projects/twitter1.png", "projects/twitter2.png", "projects/twitter3.png","projects/twitter4.png","projects/twitter5.png"],
+    "imageSrc": ["./assets/projects/twitter1.png", "./assets/projects/twitter2.png", "projects/twitter3.png","projects/twitter4.png","projects/twitter5.png"],
     "description": "Reproduction de Twitter et toute ses fonctionnalités en PHP et SQL, Project en équipe",
     "skills": ["JS", "PHP", "Tailwind", "SQL"],
     "source": "https://github.com/FloEpitech/tweet-academie"
