@@ -14,11 +14,11 @@
   width: 100%;
   background-color: rgba(10, 10, 10, 0.76);
   opacity: 0.8;
-  color: white;
+  color: rgb(240, 0, 0);
   padding: 15px 0;
   text-align: center;
   font-size: 1.2em;
-  font-family: Arial, sans-serif;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   z-index: 1000; /* Pour s'assurer que cette div est au-dessus des autres éléments */
 }

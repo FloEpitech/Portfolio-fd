@@ -1,4 +1,4 @@
-@import "../../vars.css";
+/* ProjectCard.module.css */
 
 .container {
   display: flex;
@@ -7,21 +7,34 @@
   background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
-  max-width: 345px;
+  width: 480px; /* Augmenter la largeur */
+  height: 600px; /* Augmenter la hauteur */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 0;
+}
+
+.container:hover {
+  transform: scale(1.15);
+  box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.3);
+  z-index: 1;
 }
 
 .image {
+  width: 100%;
+  height: 300px; /* Ajuster la taille de l'image */
+  object-fit: cover;
   margin-bottom: 26px;
 }
 
 .title {
-  font-size: 25px;
+  font-size: 28px; /* Ajuster la taille de la police si nécessaire */
   font-weight: 700;
 }
 
 .description {
   margin-top: 6px;
-  font-size: 25px;
+  font-size: 28px; /* Ajuster la taille de la police si nécessaire */
   font-weight: 400;
 }
 
