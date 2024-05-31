@@ -1,21 +1,21 @@
 [
   {
     "title": "My-Wysiwyg",
-    "imageSrc": ["projects/wysiwig.png","projects/wysiwig1.png", "projects/wysiwig2.png", "projects/wysiwig3.png"],
+    "imageSrc": ["./assets/projects/wysiwig.png","./assets/projects/wysiwig1.png", "./assets/projects/wysiwig2.png", "./assets/projects/wysiwig3.png"],
     "description": "Création d'un éditeur de texte de type Word, entièrement développé en JavaScript, Project en équipe",
     "skills": ["JS"],
     "source": "https://github.com/FloEpitech/My-Wysiwyg"
   },
   {
     "title": "Spotify Academie",
-    "imageSrc": ["projects/spotify1.png", "projects/spotify2.png", "projects/spotify3.png","projects/spotify4.png","projects/spotify5.png"],
+    "imageSrc": ["./assets/projects/spotify1.png", "./assets/projects/spotify2.png", "./assets/projects/spotify3.png","./assets/projects/spotify4.png","./assets/projects/spotify5.png"],
     "description": "Reproduction de Spotify fonctionnant avec une API Docker, Project en équipe.",
     "skills": ["React", "Docker", "Tailwind", "HTML"],
     "source": "https://github.com/FloEpitech/Spotify-academie"
   },
   {
     "title": "Tweet Academie",
-    "imageSrc": ["./assets/projects/twitter1.png", "./assets/projects/twitter2.png", "projects/twitter3.png","projects/twitter4.png","projects/twitter5.png"],
+    "imageSrc": ["./assets/projects/twitter1.png", "./assets/projects/twitter2.png", "./assets/projects/twitter3.png","./assets/projects/twitter4.png","./assets/projects/twitter5.png"],
     "description": "Reproduction de Twitter et toute ses fonctionnalités en PHP et SQL, Project en équipe",
     "skills": ["JS", "PHP", "Tailwind", "SQL"],
     "source": "https://github.com/FloEpitech/tweet-academie"
