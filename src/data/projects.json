@@ -1,7 +1,7 @@
 [
   {
     "title": "My-Wysiwyg",
-    "imageSrc": ["projets/wysiwig.png","projets/wysiwig1.png", "projets/wysiwig2.png", "projets/wysiwig3.png"],
+    "imageSrc": [".assets/projets/wysiwig.png","projets/wysiwig1.png", "projets/wysiwig2.png", "projets/wysiwig3.png"],
     "description": "Création d'un éditeur de texte de type Word, entièrement développé en JavaScript, Project en équipe",
     "skills": ["JS"],
     "source": "https://github.com/FloEpitech/My-Wysiwyg"
@@ -15,7 +15,7 @@
   },
   {
     "title": "Tweet Academie",
-    "imageSrc": ["projets/mongodb.png", "projets/twitter2.png", "projets/twitter3.png","projets/twitter4.png","projets/twitter5.png"],
+    "imageSrc": ["projets/twitter1.png", "projets/twitter2.png", "projets/twitter3.png","projets/twitter4.png","projets/twitter5.png"],
     "description": "Reproduction de Twitter et toute ses fonctionnalités en PHP et SQL, Project en équipe",
     "skills": ["JS", "PHP", "Tailwind", "SQL"],
     "source": "https://github.com/FloEpitech/tweet-academie"
