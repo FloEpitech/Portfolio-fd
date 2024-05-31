@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Etudiant Web@cademie",
+    "organisation": "Epitech",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": ["Developpeur Web", "Developpeur Full-Stack"],
+    "imageSrc": "history/Epitech.png"
+  },
+  {
+    "role": "Etudiant Developpeur",
+    "organisation": "Nurserie Numérique",
+    "startDate": "Juin, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Découverte du code", "Compréhension du fonctionnement global d'un site web"],
+    "imageSrc": "history/nurserie.png"
+  }
+
+]

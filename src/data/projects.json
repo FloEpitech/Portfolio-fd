@@ -1,0 +1,23 @@
+[
+  {
+    "title": "My-Wysiwyg",
+    "imageSrc": "projects/project.png",
+    "description": "Création d'un éditeur de texte de type Word, entièrement développé en JavaScript, Project en équipe",
+    "skills": ["JS"],
+    "source": "https://github.com/FloEpitech/My-Wysiwyg"
+  },
+  {
+    "title": "Spotify Academie",
+    "imageSrc": "projects/project.png",
+    "description": "Reproduction de Spotify fonctionnant avec une API Docker, Project en équipe.",
+    "skills": ["React", "Docker", "Tailwind", "HTML"],
+    "source": "https://github.com/FloEpitech/Spotify-academie"
+  },
+  {
+    "title": "Tweet Academie",
+    "imageSrc": "projects/project.png",
+    "description": "Reproduction de Twitter et toute ses fonctionnalités en PHP et SQL, Project en équipe",
+    "skills": ["JS", "PHP", "Tailwind", "SQL"],
+    "source": "https://github.com/FloEpitech/tweet-academie"
+  }
+]

@@ -1,0 +1,24 @@
+@import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.fixedDiv {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(10, 10, 10, 0.76);
+  opacity: 0.8;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 1.2em;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  z-index: 1000; /* Pour s'assurer que cette div est au-dessus des autres éléments */
+}
