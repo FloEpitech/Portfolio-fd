@@ -1,21 +1,21 @@
 [
   {
     "title": "My-Wysiwyg",
-    "imageSrc": ["https://floepitech.github.io/Portfolio-fd/assets/spotify1.png","assets/projets/wysiwig1.png", "assets/projets/wysiwig2.png", "assets/projets/wysiwig3.png"],
+    "imageSrc": ["/Portfolio-fd/assets/projets/wysiwig.png", "/Portfolio-fd/assets/projets/wysiwig1.png", "/Portfolio-fd/assets/projets/wysiwig2.png", "/Portfolio-fd/assets/projets/wysiwig3.png"],
     "description": "Création d'un éditeur de texte de type Word, entièrement développé en JavaScript, Project en équipe",
     "skills": ["JS"],
     "source": "https://github.com/FloEpitech/My-Wysiwyg"
   },
   {
     "title": "Spotify Academie",
-    "imageSrc": ["projets/spotify1.png", "projets/spotify2.png", "projets/spotify3.png","projets/spotify4.png","projets/spotify5.png"],
+    "imageSrc": ["/Portfolio-fd/assets/projets/spotify1.png", "/Portfolio-fd/assets/projets/spotify2.png", "/Portfolio-fd/assets/projets/spotify3.png", "/Portfolio-fd/assets/projets/spotify4.png", "/Portfolio-fd/assets/projets/spotify5.png"],
     "description": "Reproduction de Spotify fonctionnant avec une API Docker, Project en équipe.",
     "skills": ["React", "Docker", "Tailwind", "HTML"],
     "source": "https://github.com/FloEpitech/Spotify-academie"
   },
   {
     "title": "Tweet Academie",
-    "imageSrc": ["projets/twitter1.png", "projets/twitter2.png", "projets/twitter3.png","projets/twitter4.png","projets/twitter5.png"],
+    "imageSrc": ["/Portfolio-fd/assets/projets/twitter1.png", "/Portfolio-fd/assets/projets/twitter2.png", "/Portfolio-fd/assets/projets/twitter3.png", "/Portfolio-fd/assets/projets/twitter4.png", "/Portfolio-fd/assets/projets/twitter5.png"],
     "description": "Reproduction de Twitter et toute ses fonctionnalités en PHP et SQL, Project en équipe",
     "skills": ["JS", "PHP", "Tailwind", "SQL"],
     "source": "https://github.com/FloEpitech/tweet-academie"
