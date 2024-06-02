@@ -9,9 +9,6 @@ import { Projects } from "./components/Projects/Projects";
 function App() {
   return (
     <div className={styles.App}>
-      <div className={styles.fixedDiv}>
-        Actuellement en recherche d'alternance en développement web (Front ou/et Back), début : Septembre 2024, durée : 14 mois
-      </div>
       <Navbar />
       <Hero />
       <About />
