@@ -1,7 +1,7 @@
 [
   {
     "title": "My-Wysiwyg",
-    "imageSrc": [".assets/projets/wysiwig.png","projets/wysiwig1.png", "projets/wysiwig2.png", "projets/wysiwig3.png"],
+    "imageSrc": ["assets/projets/wysiwig.png","assets/projets/wysiwig1.png", "assets/projets/wysiwig2.png", "assets/projets/wysiwig3.png"],
     "description": "Création d'un éditeur de texte de type Word, entièrement développé en JavaScript, Project en équipe",
     "skills": ["JS"],
     "source": "https://github.com/FloEpitech/My-Wysiwyg"
